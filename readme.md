@@ -1,4 +1,4 @@
-# <h1 style='text-align:left; color: yellow'><b>Capstone Project Module 3 - Ma-Bike: Pendekatan Prediktif untuk Menyeimbangkan Sistem Berbagi Sepeda</b></h1>
+# <h1 style='text-align:left; color: yellow'><b>Capstone Project Module 3 - Ma-Bike: Pendekatan Prediktif untuk Menyeimbangkan Sistem Penyewaan Sepeda</b></h1>
 **Created by: Kristian Brilyawan**
 
 <p align="center">

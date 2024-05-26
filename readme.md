@@ -9,11 +9,11 @@
 
 Dalam beberapa dekade terakhir, kepadatan lalu lintas dan isu lingkungan di area perkotaan telah mendorong pencarian alternatif transportasi ramah lingkungan. Sistem penyewaan sepeda muncul sebagai solusi menjanjikan karena mampu mengurangi emisi gas buang dan meningkatkan kesehatan fisik pengguna. Sistem ini memungkinkan pengguna menyewa sepeda dari stasiun otomatis untuk perjalanan jarak pendek dan mengembalikannya di stasiun lain.
 
-Saat ini, lebih dari 500 program berbagi sepeda beroperasi di seluruh dunia, menyediakan lebih dari 500.000 sepeda. Inovasi ini mengotomatisasi proses pendaftaran, penyewaan, dan pengembalian sepeda, sehingga mempermudah akses pengguna.
+Saat ini, lebih dari 500 program penyewaan sepeda beroperasi di seluruh dunia, menyediakan lebih dari 500.000 sepeda. Inovasi ini mengotomatisasi proses pendaftaran, penyewaan, dan pengembalian sepeda, sehingga mempermudah akses pengguna.
 
 Meskipun menawarkan banyak manfaat, seperti pengurangan emisi karbon, kemacetan lalu lintas, dan biaya transportasi, operator sistem ini menghadapi tantangan dalam memprediksi permintaan secara akurat. Ketidakakuratan prediksi menyebabkan distribusi sepeda yang tidak merata, meningkatkan biaya pemeliharaan, dan mengurangi kepuasan pelanggan.
 
-Selain manfaat langsung bagi masyarakat, data yang dihasilkan dari sistem berbagi sepeda juga memiliki nilai penelitian yang tinggi. Data ini mencatat durasi perjalanan, posisi keberangkatan, dan kedatangan secara rinci, menjadikan sistem berbagi sepeda sebagai jaringan sensor virtual untuk memantau mobilitas perkotaan.
+Selain manfaat langsung bagi masyarakat, data yang dihasilkan dari sistem penyewaan sepeda juga memiliki nilai penelitian yang tinggi. Data ini mencatat durasi perjalanan, posisi keberangkatan, dan kedatangan secara rinci, menjadikan sistem penyewaan sepeda sebagai jaringan sensor virtual untuk memantau mobilitas perkotaan.
 
 ## Problem Statement
 
